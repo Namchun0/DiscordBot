@@ -7,4 +7,4 @@ pip install discord
 pip install requests
 
 ---------------------------
-스트리머 추가는 알잘딱으로 json파일 
+스트리머 추가는 알잘딱으로 json파일 수정
